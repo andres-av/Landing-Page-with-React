@@ -11,3 +11,13 @@
 .nav-item {
     margin: 0vh 1.5vw;
 }
+
+.footertext {
+text-align: center;
+background-color: black;
+bottom: 0;
+width: 100%;
+height: 50px;
+color: white;
+padding-top: 2vh;
+}
